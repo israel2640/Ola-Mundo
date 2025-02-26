@@ -1,4 +1,4 @@
-Primeira Aula de Git e GitHub
+Primeira Aula de Git e GitHub!
 
 📌 Introdução
 
