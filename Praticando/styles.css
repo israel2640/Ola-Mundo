@@ -1,0 +1,38 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    color: blue;
+    font-weight: bold;
+}
+
+p {
+    font-weight: bold;
+}
+
+.motores {
+    width: 300px;
+    /*Define largura da imagem*/
+    height: 200px;
+    /*define altura da imagem*/
+    margin-right: 20px;
+    /*Espaço entre a imagem e o texto */
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.botao-link button {
+    background-color: #4CAF50; /* Cor de fundo */
+    color: white; /* Cor do texto */
+    padding: 10px 20px; /* Espaçamento interno */
+    border: none; /* Sem borda */
+    cursor: pointer; /* Cursor de ponteiro ao passar o mouse */
+    text-decoration: none; /* Sem sublinhado */
+}
+
+.botao-link button:hover {
+    background-color: #45a049; /* Cor de fundo ao passar o mouse */
